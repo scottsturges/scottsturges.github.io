@@ -20,7 +20,7 @@ A 1946 Luscombe 8F Seaplane
 * Continental O-200
 
 ### Collegiate Conference Software
-Software to tabulate and manage season points for collegiate cycling events. Current repository manager of FORTRAN project started in 1993.
+Software to tabulate and manage season points for collegiate cycling events.
 
 * * *
 
@@ -51,4 +51,3 @@ Software to tabulate and manage season points for collegiate cycling events. Cur
 * Ruby, Ruby on Rails
 * Javascript, Node.js
 * HTML/CSS
-* FORTRAN
