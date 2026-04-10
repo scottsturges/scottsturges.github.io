@@ -3,21 +3,16 @@ layout: default
 ---
 
 ![Denali](assets/img/denali.jpg)
-_Denali from FL220_
+_Denali_
 
 # About
-Hey, I'm Scott. I'm an airline pilot based in Anchorage. I write code for projects involving airplanes, bicycles, and more. I referee cycling and am the volunteer conference director for the Northwest Collegiate Cycling Conference. This is my personal site for projects I'm working on.
+Hey, I'm Scott. I write code for projects involving airplanes, bicycles, and more. This is my personal site for projects I'm working on.
 
 * * *
 
 ## Projects
 ![Luscombe](assets/img/luscombe.jpg)
 _1946 Luscombe 8F seaplane at Renton Municipal Airport - KRNT_
-
-### Luscombe 8
-A 1946 Luscombe 8F Seaplane
-* EDO 1320 Floats
-* Continental O-200
 
 ### Collegiate Conference Software
 Software to tabulate and manage season points for collegiate cycling events.
@@ -27,8 +22,12 @@ Software to tabulate and manage season points for collegiate cycling events.
 ## Experience
 ### Airline related
 > ### A FAR 121 Airline
-> **Anchorage, AK** – *March 2022 - Present*  
-> Embraer 175 First Officer. Ground school instructor.
+> **San Francisco, CA** – *January 2026 - Present*  
+> Boeing 737 First Officer.
+
+> ### A FAR 121 Airline
+> **Anchorage, AK** – *March 2022 - January 2026*  
+> Embraer 175 Captain. Ground school instructor.
 
 > ### A FAR 135 Airline
 > **Bethel, AK** – *March 2021 - March 2022*  
@@ -48,6 +47,6 @@ Software to tabulate and manage season points for collegiate cycling events.
 #### Proficient with:
 * Python
 * R
-* Ruby, Ruby on Rails
-* Javascript, Node.js
+* Ruby
+* Javascript
 * HTML/CSS
